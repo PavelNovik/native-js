@@ -1,4 +1,4 @@
-const sentense = "Hello my friend!"
+const sentence = "Hello my friend!"
 
 
 export function sum(a: number, b: number) {
@@ -7,4 +7,4 @@ export function sum(a: number, b: number) {
 export function mult(a: number, b: number) {
     return a * b
 }
-export function splitIntoWords (sentense: string) {}
+export function splitIntoWords (sentence: string) {}
